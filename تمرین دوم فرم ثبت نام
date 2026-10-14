@@ -1,0 +1,18 @@
+<html>
+<body>
+<h2>فرم ثبت اطلاعات</h2>
+First Name:
+<input type="text" id="fname">
+<br><br>
+Last Name:
+<input type="text" id="lname">
+<br><br>
+Phone:
+<input type="text" id="phone">
+<br><br>
+City:
+<input type="text" id="city">
+<br><br>
+<button onclick="alert('ثبت موفق')">ثبت</button>
+</body>
+</html>
