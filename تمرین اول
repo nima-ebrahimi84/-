@@ -1,0 +1,26 @@
+<html>
+<body>
+
+<table border="1">
+<tr>
+<td>Name</td>
+<td>Family Name</td>
+<td>Age</td>
+</tr>
+
+<tr>
+<td>Sara</td>
+<td>Mohammadi</td>
+<td>25</td>
+</tr>
+
+<tr>
+<td>Darya</td>
+<td>Akbari</td>
+<td>20</td>
+</tr>
+
+</table>
+
+</body>
+</html>
