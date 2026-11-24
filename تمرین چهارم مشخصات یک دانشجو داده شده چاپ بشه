@@ -1,0 +1,18 @@
+<?php
+
+$student = array(
+    "name" => "nima",
+    "family" => "ebrahimi",
+    "age" => 21,
+    "field" => "Computer"
+);
+
+echo $student["name"] . "<br>";
+<hr>
+echo $student["family"] . "<br>";
+<hr>
+echo $student["age"] . "<br>";
+<hr>
+echo $student["field"];
+
+?>
