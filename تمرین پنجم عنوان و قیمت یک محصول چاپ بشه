@@ -1,0 +1,13 @@
+<?php
+
+$product = array(
+    "id" => 159867,
+    "price" => 320/000/000,
+    "title" => "Mobile iph 16 pro max 256g w"
+);
+
+echo "Title: " . $product["title"] . "<br>";
+<hr>
+echo "Price: " . $product["price"];
+
+?>
